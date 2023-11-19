@@ -43,7 +43,8 @@ Kelas : TI.22.A1
     </html>
 ```
 
-![1](https://github.com/syifaaurellia/Lab7web/assets/115867244/fe5b6a6b-ea0a-49ac-8015-dee3bd3ec155)
+![1](https://github.com/iki020904/Lab7web/assets/115804283/f3b8f457-f84d-4957-9ab7-a726068f2c3b)
+
 
 
 4. Variable PHP :
@@ -56,7 +57,8 @@ Kelas : TI.22.A1
     ?>
 ```
 
-![2](https://github.com/syifaaurellia/Lab7web/assets/115867244/21ad070e-8f5c-4eb9-b08a-12faf116f700)
+![2](https://github.com/iki020904/Lab7web/assets/115804283/9334db01-799b-417d-8009-6862fbbefb53)
+
 
 
 5. Predefine Variable $_GET :
@@ -67,7 +69,8 @@ Kelas : TI.22.A1
 ```
 
 
-![3](https://github.com/syifaaurellia/Lab7web/assets/115867244/49f365d6-fc09-44e8-9ce5-d33ad2001050)
+![3](https://github.com/iki020904/Lab7web/assets/115804283/58006997-0745-4dbe-bdf5-1ddcec2ca930)
+
 
 
 6. Membuat Form :
@@ -93,7 +96,8 @@ Kelas : TI.22.A1
 ```
 
 
-![4](https://github.com/syifaaurellia/Lab7web/assets/115867244/3adf62c4-b272-4152-9dbe-5fdbca00e685)
+![4](https://github.com/iki020904/Lab7web/assets/115804283/fe7737d3-4a0d-43d4-9316-332bd12d5e3d)
+
 
 
 
